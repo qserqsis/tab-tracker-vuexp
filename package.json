@@ -1,0 +1,22 @@
+{
+  "name": "tab-tracker-vuexp",
+  "version": "1.0.0",
+  "description": "tutorial from https://www.youtube.com/watch?v=Fa4cRMaTDUI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qserqsis/tab-tracker-vuexp.git"
+  },
+  "author": "Vyacheslav Trubetskoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qserqsis/tab-tracker-vuexp/issues"
+  },
+  "homepage": "https://github.com/qserqsis/tab-tracker-vuexp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
